@@ -23,3 +23,6 @@ A simple React color picker application that allows users to change the backgrou
    git clone : https://github.com/WaqasArshad97/React-Color-Picker-App.git
 
 Feel free to modify and enhance the app according to your preferences!
+
+# Video Tutorial of this project is here :
+https://github.com/WaqasArshad97/React-Color-Picker-App/assets/140519770/203a29f5-a307-4aa0-a32a-83d882c04339
